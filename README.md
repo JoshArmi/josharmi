@@ -1,5 +1,5 @@
 ## ⚡ Hello there ⚡
-![CartoonFace](./assets/cartoon-face.png)
+![CartoonFace](https://github.com/JoshArmi/josharmi/raw/main/assets/cartoon-face.png)
 
 I'm Josh, a Cloud Native consultant focusing on:
 
