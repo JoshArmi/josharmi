@@ -14,7 +14,7 @@ I'm a passionate **Digital Transformation Consultant** with experience in **AWS,
 
 ## My Skills 🧠
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=css3&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,7 +31,7 @@ I'm a passionate **Digital Transformation Consultant** with experience in **AWS,
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://thearmitagency.com)
+- **[Website]**(https://thearmitagency.com)
 - **[LinkedIn]**(https://www.linkedin.com/in/josh-armitage-b7825a41/)
 - **[Twitter]**(https://twitter.com/josharmi)
 
